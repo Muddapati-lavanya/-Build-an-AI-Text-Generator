@@ -14,3 +14,6 @@ Generate text aligned with the sentiment detected from the user's input prompt.
    ```bash
    python -m venv venv
    venv\Scripts\activate
+
+   Live Demo: https://bhp2rqcvzy3izighduymqn.streamlit.app/
+
