@@ -15,5 +15,9 @@ Generate text aligned with the sentiment detected from the user's input prompt.
    python -m venv venv
    venv\Scripts\activate
 
-   Live Demo: https://bhp2rqcvzy3izighduymqn.streamlit.app/
+   Live Demo:
+   ## Live Demo
+Try the AI Sentiment-Aligned Text Generator here: [Click here](https://bhp2rqcvzy3izighduymqn.streamlit.app/)
+
+
 
